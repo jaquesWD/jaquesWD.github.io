@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.6f7e10b8.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"content/purebasic/Vscode.md","lastUpdated":null}'),c={name:"content/purebasic/Vscode.md"};function o(s,n,r,d,p,i){return a(),t("div")}const m=e(c,[["render",o]]);export{l as __pageData,m as default};

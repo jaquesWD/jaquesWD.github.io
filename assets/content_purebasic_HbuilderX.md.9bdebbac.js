@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.6f7e10b8.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"content/purebasic/HbuilderX.md","lastUpdated":null}'),r={name:"content/purebasic/HbuilderX.md"};function n(c,o,s,d,i,p){return a(),t("div")}const u=e(r,[["render",n]]);export{_ as __pageData,u as default};
